@@ -1,0 +1,3 @@
+# Cloud Foundry Stub Runner Boot
+
+Spring Cloud Contract Stub Runner Boot used for tests with https://github.com/ciberkleid/cna-demo-setup 
